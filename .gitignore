@@ -1,0 +1,3 @@
+*.pyc
+/perasis/local_settings.py
+.idea
